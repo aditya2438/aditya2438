@@ -4,24 +4,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero.svg">
-  <img src="assets/hero.svg" alt="Aditya Chouhan — Java Backend Developer &amp; Distributed Systems Engineer" width="100%">
+  <img src="assets/hero.svg" alt="Aditya Chouhan — Java Backend Developer &amp; Systems Engineer" width="100%">
 </picture>
 
 <br/>
 
-<!-- DYNAMIC ANIMATED TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3200&pause=800&color=E5B5C7&center=true&vCenter=true&width=950&height=70&repeat=true&lines=Java+Backend+Developer+%E2%80%A2+Distributed+Systems+Engineer;Spring+Boot+3.3+%7C+Apache+Kafka+%7C+Redis+Caching;Pessimistic+Locking+%E2%80%A2+PostgreSQL+3NF+ACID+Design;High-Throughput+APIs+%E2%80%A2+Sub-25ms+Response+Latency;Spring+AI+Integration+%E2%80%A2+Docker+Containerization" alt="Typing SVG" />
+<!-- ANIMATED TYPING SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3200&pause=800&color=E5B5C7&center=true&vCenter=true&width=950&height=65&repeat=true&lines=Java+Backend+Developer+%E2%80%A2+Distributed+Systems;Spring+Boot+3.3+%7C+Apache+Kafka+%7C+Redis+Caching;Pessimistic+Locking+%E2%80%A2+PostgreSQL+3NF+ACID+Design;High-Throughput+APIs+%E2%80%A2+Sub-25ms+Response+Latency;Spring+AI+Integration+%E2%80%A2+Docker+Cloud+Architecture" alt="Typing Animation" />
 
 <br/>
 
-<!-- ACADEMIC & LOCATION PILLS -->
+<!-- QUICK BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-701A3D?style=for-the-badge&labelColor=190B12" alt="B.Tech Computer Science &amp; Engineering" />
-  <img src="https://img.shields.io/badge/SVVV_Indore-2022--2026-451126?style=for-the-badge&labelColor=190B12" alt="Shri Vaishnav Vidyapeeth Vishwavidyalaya" />
-  <img src="https://img.shields.io/badge/Location-Madhya_Pradesh%2C_India-701A3D?style=for-the-badge&labelColor=190B12" alt="Location" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-701A3D?style=for-the-badge&labelColor=170A12" alt="B.Tech Computer Science &amp; Engineering" />
+  <img src="https://img.shields.io/badge/SVVV_Indore-2022--2026-451126?style=for-the-badge&labelColor=170A12" alt="Shri Vaishnav Vidyapeeth Vishwavidyalaya" />
+  <img src="https://img.shields.io/badge/Location-Madhya_Pradesh%2C_India-701A3D?style=for-the-badge&labelColor=170A12" alt="Location" />
 </p>
 
-<!-- TRANSMISSION & SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/aditya-chouhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya_Chouhan-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" />
@@ -32,7 +32,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/aditya2438">
-    <img src="https://img.shields.io/badge/GitHub-aditya2438-190B12?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-aditya2438-170A12?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/aditya2438">
-    <img src="https://img.shields.io/github/followers/aditya2438?style=for-the-badge&color=701A3D&labelColor=190B12&logo=github&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/aditya2438?style=for-the-badge&color=701A3D&labelColor=170A12&logo=github&label=FOLLOWERS" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/aditya2438?tab=repositories">
@@ -55,27 +55,27 @@
 
 ---
 
-### <img src="assets/section-about.svg" alt="01 // Architectural Profile" width="100%" />
+### <img src="assets/section-about.svg" alt="About Me" width="100%" />
 
-> **"Resilient distributed backends are built on deterministic state transitions, asynchronous decoupling, and zero single-points-of-failure."**
+Hi! I'm **Aditya Chouhan**, a **Java Backend Developer & Software Engineer** passionate about building resilient microservices, distributed event-driven systems, and high-throughput APIs.
 
-I am a **Java Backend Developer & Software Engineer** focused on architecting scalable microservices, low-latency transaction pipelines, and distributed event-driven systems. My core engineering practices center on **Java 21**, **Spring Boot 3.3**, asynchronous stream processing with **Apache Kafka**, and in-memory caching with **Redis**.
+My core engineering focus is centered on modern Java ecosystems (**Java 21**, **Spring Boot 3.3**), asynchronous messaging with **Apache Kafka**, low-latency caching with **Redis**, and structured database design (**PostgreSQL 3NF / MySQL ACID**).
 
-- 🎓 **Academic Grounding**: Pursuing **B.Tech in Computer Science & Engineering** (2022 – 2026) at **Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore** (CGPA: 6.98 / 10.0).
-- ⚙️ **Architectural Focus**: Decoupled microservices with Dead-Letter Queues (DLQ), strict 3NF schema modeling with ACID compliance, and Spring AI integrations.
-- ⚡ **High Concurrency & Latency Optimization**: Database query indexing, pessimistic row-level locking for inventory integrity, and Redis distributed caching sustaining sub-25ms response windows.
-- 📍 **Base**: Ujjain / Indore, Madhya Pradesh, India — *Available for Backend & Software Engineering Opportunities*.
+- 🎓 **Education**: Pursuing **B.Tech in Computer Science & Engineering** (2022 – 2026) at **Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore** (CGPA: 6.98 / 10.0).
+- ⚙️ **Engineering Focus**: Decoupled microservices with Dead-Letter Queues (DLQ), strict 3NF schema modeling with ACID compliance, and Spring AI integrations.
+- ⚡ **High Concurrency & Latency**: Database query indexing, pessimistic locking for inventory integrity, and Redis distributed caching sustaining sub-25ms response times.
+- 📍 **Location**: Ujjain & Indore, Madhya Pradesh, India.
 
 <br/>
 
-#### 🎯 Open To
-`Java Backend Development` • `Distributed Systems Engineering` • `Microservices Architecture` • `Software Engineering` • `Cloud-Native Backend`
+**Open To Roles:**
+`Java Backend Developer` • `Software Development Engineer (SDE)` • `Distributed Systems Engineer` • `Cloud & Backend Engineer`
 
 <br/>
 
 ---
 
-### <img src="assets/section-projects.svg" alt="02 // System Architectures" width="100%" />
+### <img src="assets/section-projects.svg" alt="Featured Projects" width="100%" />
 
 <table>
 <tr>
@@ -104,10 +104,10 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
   <img src="https://img.shields.io/badge/Java_21-451126?style=flat-square&logo=openjdk&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Spring_Boot_3.3-701A3D?style=flat-square&logo=springboot&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Spring_AI-451126?style=flat-square&logo=spring&logoColor=E5B5C7" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-190B12?style=flat-square&logo=apachekafka&logoColor=E5B5C7" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-170A12?style=flat-square&logo=apachekafka&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Redis-701A3D?style=flat-square&logo=redis&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/PostgreSQL-451126?style=flat-square&logo=postgresql&logoColor=E5B5C7" />
-  <img src="https://img.shields.io/badge/Docker-190B12?style=flat-square&logo=docker&logoColor=E5B5C7" />
+  <img src="https://img.shields.io/badge/Docker-170A12?style=flat-square&logo=docker&logoColor=E5B5C7" />
 </div>
 
 <br/>
@@ -142,10 +142,10 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
   <img src="https://img.shields.io/badge/Java_21-451126?style=flat-square&logo=openjdk&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Spring_Boot_3.3-701A3D?style=flat-square&logo=springboot&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Spring_Security-451126?style=flat-square&logo=springsecurity&logoColor=E5B5C7" />
-  <img src="https://img.shields.io/badge/MySQL_8.0-190B12?style=flat-square&logo=mysql&logoColor=E5B5C7" />
+  <img src="https://img.shields.io/badge/MySQL_8.0-170A12?style=flat-square&logo=mysql&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Redis-701A3D?style=flat-square&logo=redis&logoColor=E5B5C7" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-451126?style=flat-square&logo=tailwindcss&logoColor=E5B5C7" />
-  <img src="https://img.shields.io/badge/Render-190B12?style=flat-square&logo=render&logoColor=E5B5C7" />
+  <img src="https://img.shields.io/badge/Render-170A12?style=flat-square&logo=render&logoColor=E5B5C7" />
 </div>
 
 <br/>
@@ -160,9 +160,9 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
 
 ---
 
-### <img src="assets/section-skills.svg" alt="03 // Technical Specifications" width="100%" />
+### <img src="assets/section-skills.svg" alt="Tech Stack" width="100%" />
 
-#### ⚡ Visual Technology Stack
+#### ⚡ Visual Overview
 
 <p align="left">
   <strong>Languages:</strong><br/>
@@ -186,7 +186,7 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
 
 <br/>
 
-#### 🏷️ Detailed Competency Badges
+#### 🏷️ Detailed Competencies
 
 <table width="100%">
 <tr>
@@ -194,20 +194,20 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
   <td>
     <img src="https://img.shields.io/badge/Java_21_/_17-451126?style=for-the-badge&logo=openjdk&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/SQL-701A3D?style=for-the-badge&logo=postgresql&logoColor=E5B5C7" />
-    <img src="https://img.shields.io/badge/JavaScript_ES6+-190B12?style=for-the-badge&logo=javascript&logoColor=E5B5C7" />
+    <img src="https://img.shields.io/badge/JavaScript_ES6+-170A12?style=for-the-badge&logo=javascript&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/C++-451126?style=for-the-badge&logo=cplusplus&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/HTML5_/_CSS3-701A3D?style=for-the-badge&logo=html5&logoColor=E5B5C7" />
   </td>
 </tr>
 <tr>
-  <td width="25%" valign="top"><strong>Backend &amp; Distributed</strong></td>
+  <td width="25%" valign="top"><strong>Backend &amp; Frameworks</strong></td>
   <td>
     <img src="https://img.shields.io/badge/Spring_Boot_3.3-451126?style=for-the-badge&logo=springboot&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Spring_Security-701A3D?style=for-the-badge&logo=springsecurity&logoColor=E5B5C7" />
-    <img src="https://img.shields.io/badge/Spring_AI-190B12?style=for-the-badge&logo=spring&logoColor=E5B5C7" />
+    <img src="https://img.shields.io/badge/Spring_AI-170A12?style=for-the-badge&logo=spring&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Hibernate_JPA-451126?style=for-the-badge&logo=hibernate&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/RESTful_APIs-701A3D?style=for-the-badge&logo=fastapi&logoColor=E5B5C7" />
-    <img src="https://img.shields.io/badge/Microservices-190B12?style=for-the-badge&logo=diagram-project&logoColor=E5B5C7" />
+    <img src="https://img.shields.io/badge/Microservices-170A12?style=for-the-badge&logo=diagram-project&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/JDBC_&_JSP-451126?style=for-the-badge&logo=java&logoColor=E5B5C7" />
   </td>
 </tr>
@@ -216,7 +216,7 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
   <td>
     <img src="https://img.shields.io/badge/PostgreSQL-451126?style=for-the-badge&logo=postgresql&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/MySQL_8.0_(3NF)-701A3D?style=for-the-badge&logo=mysql&logoColor=E5B5C7" />
-    <img src="https://img.shields.io/badge/Redis_(Cache_/_DLQ)-190B12?style=for-the-badge&logo=redis&logoColor=E5B5C7" />
+    <img src="https://img.shields.io/badge/Redis_(Cache_/_DLQ)-170A12?style=for-the-badge&logo=redis&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/MongoDB-451126?style=for-the-badge&logo=mongodb&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Supabase-701A3D?style=for-the-badge&logo=supabase&logoColor=E5B5C7" />
   </td>
@@ -226,15 +226,15 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
   <td>
     <img src="https://img.shields.io/badge/Docker-451126?style=for-the-badge&logo=docker&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Apache_Kafka-701A3D?style=for-the-badge&logo=apachekafka&logoColor=E5B5C7" />
-    <img src="https://img.shields.io/badge/Git_&_GitHub-190B12?style=for-the-badge&logo=github&logoColor=E5B5C7" />
+    <img src="https://img.shields.io/badge/Git_&_GitHub-170A12?style=for-the-badge&logo=github&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Maven_&_Gradle-451126?style=for-the-badge&logo=apachemaven&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Postman-701A3D?style=for-the-badge&logo=postman&logoColor=E5B5C7" />
-    <img src="https://img.shields.io/badge/JUnit_5_&_Mockito-190B12?style=for-the-badge&logo=testinglibrary&logoColor=E5B5C7" />
+    <img src="https://img.shields.io/badge/JUnit_5_&_Mockito-170A12?style=for-the-badge&logo=testinglibrary&logoColor=E5B5C7" />
     <img src="https://img.shields.io/badge/Render_&_Vercel-451126?style=for-the-badge&logo=render&logoColor=E5B5C7" />
   </td>
 </tr>
 <tr>
-  <td width="25%" valign="top"><strong>Core Disciplines</strong></td>
+  <td width="25%" valign="top"><strong>Core Fundamentals</strong></td>
   <td>
     <code>Data Structures &amp; Algorithms (DSA)</code> • <code>Object-Oriented Design (OOPs)</code> • <code>System Design Basics</code> • <code>Database Indexing (B-Tree)</code> • <code>JWT &amp; OAuth2 RBAC</code> • <code>Pessimistic / Optimistic Locking</code> • <code>CI/CD Fundamentals</code>
   </td>
@@ -245,60 +245,59 @@ I am a **Java Backend Developer & Software Engineer** focused on architecting sc
 
 ---
 
-### <img src="assets/section-focus.svg" alt="04 // Current Focus &amp; Matrix" width="100%" />
+### <img src="assets/section-focus.svg" alt="Current Focus" width="100%" />
 
 ```yaml
-Architectural Systems:
-  - Java 21 & Modern Spring Boot 3.3 Ecosystem
-  - Distributed Microservices & Asynchronous Event Streams
-  - Apache Kafka Message Broker with Dead-Letter Queues (DLQ)
-  - Fault-Tolerant System Decoupling & Service Discovery
+Building & Engineering:
+  - Scalable Distributed Microservices with Spring Boot 3.3 & Java 21
+  - Asynchronous Event Streams via Apache Kafka with Dead-Letter Queues (DLQ)
+  - Sub-25ms In-Memory Caching Layers using Redis
+  - High-Concurrency Relational Database Schemas (3NF) in PostgreSQL & MySQL
 
-Data Integrity & High Concurrency:
-  - Normalized Relational Modeling (3NF) in PostgreSQL & MySQL 8.0
-  - Pessimistic Row-Level Locking to Prevent Inventory Overwrites
-  - Distributed In-Memory Caching with Redis (<25ms Latency)
-  - Composite B-Tree Indexing & Stored Procedures for Auditing
+Deepening & Mastering:
+  - Concurrency Control: Pessimistic Row-Level Locking Under Flash Traffic
+  - Database Performance: Composite B-Tree Indexing & Stored Procedures
+  - Cloud Native Deployment: Multi-Stage Docker Builds & Render Deployment
+  - Algorithmic Routing: Haversine Geo-Proximity & Conflict-Free Slot Reservations
 
-Actively Engineering & Exploring:
-  - Spring AI & LLM Model Integration for Business Automations
-  - Containerization with Docker & Cloud Production Workflows
-  - Spherical Geo-Proximity Algorithms (Haversine Formula)
+Actively Exploring:
+  - Spring AI & LLM Function Calling Patterns for Dynamic Workflows
+  - Event-Driven Sagas & Distributed Transaction Patterns
+  - System Observability, Health Metrics & Telemetry
 
-Open To Roles:
-  - Java Backend Developer
-  - Distributed Systems Engineer
-  - Microservices & Cloud Architect
-  - Software Development Engineer (SDE)
+Open To:
+  - Java Backend Developer Roles
+  - Software Development Engineer (SDE) Opportunities
+  - Distributed Systems & Microservices Engineering
 ```
 
 <br/>
 
 ---
 
-### <img src="assets/section-achievements.svg" alt="05 // Verified Recognition" width="100%" />
+### <img src="assets/section-achievements.svg" alt="Achievements &amp; Certifications" width="100%" />
 
-| Milestone / Certification | Authority & Scope | Focus & Verification |
+| Recognition / Certificate | Issuing Organization | Key Focus |
 | :--- | :--- | :--- |
-| **Accenture Innovation Challenge 2024** | **Accenture** • National Hackathon | Explored and engineered enterprise-grade corporate technology solutions and system prototypes. |
-| **Cloud Computing & Java Programming** | **NPTEL / IIT Kharagpur** | Rigorous specialization in distributed cloud paradigms, virtualization, networking, and enterprise Java. |
-| **Relational Databases & MySQL** | **Oracle** | Deep verification in 3NF schema design, ACID transactions, B-Tree index optimization, and stored procedures. |
+| **Accenture Innovation Challenge 2024** | **Accenture** • National Hackathon | Explored and engineered enterprise-grade technology prototypes and solutions. |
+| **Cloud Computing & Java Programming** | **NPTEL / IIT Kharagpur** | Distributed cloud computing architecture, virtualization, and enterprise Java. |
+| **Relational Databases & MySQL** | **Oracle** | 3NF schema normalization, ACID guarantees, transaction indexing, and stored procedures. |
 
 <br/>
 
 ---
 
-### <img src="assets/section-experience.svg" alt="06 // Professional Tracks" width="100%" />
+### <img src="assets/section-experience.svg" alt="Experience &amp; Training" width="100%" />
 
-- 💼 **Virtual Internship — Flipr Labs**: Completed comprehensive web development tracks focusing on scalable backend architectures, high-performance REST APIs, and production deployment standards.
-- 💡 **Industry Training — Infosys Springboard**: Mastered enterprise computing foundations, modern Java backend principles, and distributed web system evaluations.
+- 💼 **Virtual Internship — Flipr Labs**: Comprehensive web development track focusing on scalable backend architectures, high-performance REST APIs, and production deployment standards.
+- 💡 **Industry Training — Infosys Springboard**: Enterprise computing foundations, modern Java backend principles, and distributed web system evaluations.
 - 🔍 **Academic Evaluation — OneVarsity**: Assessed full-stack project criteria and microservices performance benchmarks.
 
 <br/>
 
 ---
 
-### <img src="assets/section-activity.svg" alt="07 // Contribution Metrics" width="100%" />
+### <img src="assets/section-activity.svg" alt="GitHub Activity" width="100%" />
 
 <div align="center">
 
@@ -329,7 +328,7 @@ Open To Roles:
 </table>
 
 <p align="center">
-  <sub><em>Metrics and contribution telemetry stream directly from the GitHub API via verified SVG visualizers.</em></sub>
+  <sub><em>Metrics and contribution telemetry stream live from the GitHub API.</em></sub>
 </p>
 
 </div>
@@ -338,14 +337,14 @@ Open To Roles:
 
 ---
 
-### <img src="assets/section-connect.svg" alt="08 // Transmission Channels" width="100%" />
+### <img src="assets/section-connect.svg" alt="Connect With Me" width="100%" />
 
 <div align="center">
 
 <!-- CODING & PROFESSIONAL PROFILES -->
 <p align="center">
   <a href="https://github.com/aditya2438" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-aditya2438-190B12?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-aditya2438-170A12?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/aditya-chouhan" target="_blank">
@@ -353,17 +352,17 @@ Open To Roles:
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/adityachouhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Aditya_Chouhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=190B12" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Aditya_Chouhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=170A12" alt="LeetCode" />
   </a>
 </p>
 
 <table align="center">
-| Channel | Destination / Endpoint | Scope |
+| Channel | Destination | Details |
 | :--- | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/aditya-chouhan](https://linkedin.com/in/aditya-chouhan) | Engineering discussions, technical writings & networking |
-| **Email** | [adityachouhan2446@gmail.com](mailto:adityachouhan2446@gmail.com) | Direct inquiries, system conversations & job opportunities |
-| **GitHub** | [github.com/aditya2438](https://github.com/aditya2438) | Source repositories, microservice codebases & architectures |
-| **Location** | Ujjain & Indore, Madhya Pradesh, India | Open to on-site, hybrid, or remote engineering positions |
+| **LinkedIn** | [linkedin.com/in/aditya-chouhan](https://linkedin.com/in/aditya-chouhan) | Professional updates, engineering articles & networking |
+| **Email** | [adityachouhan2446@gmail.com](mailto:adityachouhan2446@gmail.com) | Direct inquiries, system discussions & opportunities |
+| **GitHub** | [github.com/aditya2438](https://github.com/aditya2438) | Open-source codebases, microservice architectures |
+| **Location** | Ujjain & Indore, Madhya Pradesh, India | Open to on-site, hybrid, or remote engineering roles |
 </table>
 
 <br/>
@@ -372,7 +371,7 @@ Open To Roles:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/footer.svg">
-  <img src="assets/footer.svg" alt="Aditya Chouhan — Engineered for Resilience" width="100%">
+  <img src="assets/footer.svg" alt="Aditya Chouhan Footer" width="100%">
 </picture>
 
 </div>

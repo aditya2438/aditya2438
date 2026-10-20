@@ -1,21 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 44" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <linearGradient id="sec-line-achievements" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C77B9B" />
-      <stop offset="40%" stop-color="#701A3D" />
-      <stop offset="100%" stop-color="#190B12" stop-opacity="0.05" />
+    <linearGradient id="line-grad-achievements" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#701A3D" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#190B12" stop-opacity="0.0" />
+    </linearGradient>
+    <linearGradient id="bar-grad-achievements" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E5B5C7" />
+      <stop offset="50%" stop-color="#C77B9B" />
+      <stop offset="100%" stop-color="#701A3D" />
     </linearGradient>
   </defs>
   <style>
-    .sec-mono-achievements { font-family: 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 13px; font-weight: 700; letter-spacing: 2px; fill: #F8F0F3; }
-    .sec-sub-achievements { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; fill: #C77B9B; letter-spacing: 1.5px; font-weight: 600; }
+    .sec-title-achievements {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif;
+      font-size: 19px;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      fill: #F8F0F3;
+    }
   </style>
-  <g transform="translate(6, 22)">
-    <rect x="0" y="-12" width="5" height="24" rx="2" fill="#C77B9B" />
-    <rect x="8" y="-12" width="2" height="24" rx="1" fill="#701A3D" />
-    <text x="22" y="5" class="sec-mono-achievements">05 // VERIFIED RECOGNITION</text>
-    <text x="340" y="4" class="sec-sub-achievements">[ CERTIFICATIONS &amp; MILESTONES ]</text>
-    <line x1="640" y1="0" x2="910" y2="0" stroke="url(#sec-line-achievements)" stroke-width="1.5" />
-    <circle cx="910" cy="0" r="2.5" fill="#701A3D" />
+  <g transform="translate(8, 22)">
+    <rect x="0" y="-11" width="4.5" height="22" rx="2.25" fill="url(#bar-grad-achievements)" />
+    <text x="16" y="6" class="sec-title-achievements">Achievements &amp; Certifications</text>
+    <line x1="320" y1="0" x2="905" y2="0" stroke="url(#line-grad-achievements)" stroke-width="1.5" stroke-linecap="round" />
+    <circle cx="905" cy="0" r="2" fill="#701A3D" />
   </g>
 </svg>
