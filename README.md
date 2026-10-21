@@ -273,19 +273,7 @@ Open To:
 
 <br/>
 
----
 
-### <img src="assets/section-achievements.svg" alt="Achievements &amp; Certifications" width="100%" />
-
-| Recognition / Certificate | Issuing Organization | Key Focus |
-| :--- | :--- | :--- |
-| **Accenture Innovation Challenge 2024** | **Accenture** • National Hackathon | Explored and engineered enterprise-grade technology prototypes and solutions. |
-| **Cloud Computing & Java Programming** | **NPTEL / IIT Kharagpur** | Distributed cloud computing architecture, virtualization, and enterprise Java. |
-| **Relational Databases & MySQL** | **Oracle** | 3NF schema normalization, ACID guarantees, transaction indexing, and stored procedures. |
-
-<br/>
-
----
 
 ### <img src="assets/section-experience.svg" alt="Experience &amp; Training" width="100%" />
 
@@ -347,24 +335,14 @@ Open To:
     <img src="https://img.shields.io/badge/GitHub-aditya2438-170A12?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/aditya-chouhan" target="_blank">
+  <a href="https://www.linkedin.com/in/adityachouhan24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya_Chouhan-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/adityachouhan/" target="_blank">
+  <a href="https://leetcode.com/u/kX69jmDS30/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Aditya_Chouhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=170A12" alt="LeetCode" />
   </a>
 </p>
-
-<table align="center">
-| Channel | Destination | Details |
-| :--- | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/aditya-chouhan](https://linkedin.com/in/aditya-chouhan) | Professional updates, engineering articles & networking |
-| **Email** | [adityachouhan2446@gmail.com](mailto:adityachouhan2446@gmail.com) | Direct inquiries, system discussions & opportunities |
-| **GitHub** | [github.com/aditya2438](https://github.com/aditya2438) | Open-source codebases, microservice architectures |
-| **Location** | Ujjain & Indore, Madhya Pradesh, India | Open to on-site, hybrid, or remote engineering roles |
-</table>
-
 <br/>
 
 <!-- MINIMAL ANIMATED SVG FOOTER -->
