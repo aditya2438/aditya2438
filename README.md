@@ -61,10 +61,10 @@ Hi! I'm **Aditya Chouhan**, a **Java Backend Developer & Software Engineer** pas
 
 My core engineering focus is centered on modern Java ecosystems (**Java 21**, **Spring Boot 3.3**), asynchronous messaging with **Apache Kafka**, low-latency caching with **Redis**, and structured database design (**PostgreSQL 3NF / MySQL ACID**).
 
-- 🎓 **Education**: Pursuing **B.Tech in Computer Science & Engineering** (2022 – 2026) at **Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore** (CGPA: 6.98 / 10.0).
-- ⚙️ **Engineering Focus**: Decoupled microservices with Dead-Letter Queues (DLQ), strict 3NF schema modeling with ACID compliance, and Spring AI integrations.
-- ⚡ **High Concurrency & Latency**: Database query indexing, pessimistic locking for inventory integrity, and Redis distributed caching sustaining sub-25ms response times.
-- 📍 **Location**: Ujjain & Indore, Madhya Pradesh, India.
+-  **Education**: Pursuing **B.Tech in Computer Science & Engineering** (2022 – 2026) at **Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore** (CGPA: 6.98 / 10.0).
+-  **Engineering Focus**: Decoupled microservices with Dead-Letter Queues (DLQ), strict 3NF schema modeling with ACID compliance, and Spring AI integrations.
+-  **High Concurrency & Latency**: Database query indexing, pessimistic locking for inventory integrity, and Redis distributed caching sustaining sub-25ms response times.
+-  **Location**: Ujjain & Indore, Madhya Pradesh, India.
 
 <br/>
 
@@ -81,7 +81,7 @@ My core engineering focus is centered on modern Java ecosystems (**Java 21**, **
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 FairCart
+###  FairCart
 **AI-Powered Distributed E-Commerce & Smart Cart Platform**
 
 > Event-driven microservices architecture handling high-concurrency order workflows, AI price negotiation, and sub-25ms response windows.
@@ -112,12 +112,12 @@ My core engineering focus is centered on modern Java ecosystems (**Java 21**, **
 
 <br/>
 
-🔗 **Repository**: [github.com/aditya2438/Faircart](https://github.com/aditya2438/Faircart)
+ **Repository**: [github.com/aditya2438/Faircart](https://github.com/aditya2438/Faircart)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ FixMate (Fixora)
+###  FixMate (Fixora)
 **On-Demand Local Service Booking Marketplace**
 
 > Multi-role service platform with Haversine spherical geo-proximity routing, collision-free slot booking, and automated job state machines.
@@ -150,7 +150,7 @@ My core engineering focus is centered on modern Java ecosystems (**Java 21**, **
 
 <br/>
 
-🔗 **Repository**: [github.com/aditya2438/Fixora](https://github.com/aditya2438/Fixora)
+ **Repository**: [github.com/aditya2438/Fixora](https://github.com/aditya2438/Fixora)
 
 </td>
 </tr>
@@ -162,7 +162,7 @@ My core engineering focus is centered on modern Java ecosystems (**Java 21**, **
 
 ### <img src="assets/section-skills.svg" alt="Tech Stack" width="100%" />
 
-#### ⚡ Visual Overview
+####  Visual Overview
 
 <p align="left">
   <strong>Languages:</strong><br/>
@@ -186,7 +186,7 @@ My core engineering focus is centered on modern Java ecosystems (**Java 21**, **
 
 <br/>
 
-#### 🏷️ Detailed Competencies
+####  Detailed Competencies
 
 <table width="100%">
 <tr>
@@ -275,13 +275,7 @@ Open To:
 
 
 
-### <img src="assets/section-experience.svg" alt="Experience &amp; Training" width="100%" />
 
-- 💼 **Virtual Internship — Flipr Labs**: Comprehensive web development track focusing on scalable backend architectures, high-performance REST APIs, and production deployment standards.
-- 💡 **Industry Training — Infosys Springboard**: Enterprise computing foundations, modern Java backend principles, and distributed web system evaluations.
-- 🔍 **Academic Evaluation — OneVarsity**: Assessed full-stack project criteria and microservices performance benchmarks.
-
-<br/>
 
 ---
 
